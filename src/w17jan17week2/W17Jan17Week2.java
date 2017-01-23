@@ -16,9 +16,11 @@ public class W17Jan17Week2 {
      */
     public static void main(String[] args) {
         System.out.println("Hello Github World");
+        System.out.println("HURRAY I MADE IT");
+
         
-        GameofWar theGame = new GameOfWar();
-        theGame.playTheGame();
+//        GameofWar theGame = new GameOfWar();
+//        theGame.playTheGame();
     
     }
     
